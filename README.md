@@ -106,8 +106,91 @@ Se calcula el voltaje en la resistencia de 12Ω
 
 ### PREGUNTA 2
 
-Calcular la intensidad I que pasará por la resistencia 5Ω utilizando Thevenin 
+Calcular la intensidad I que pasará por la resistencia 5Ω utilizando Thévenin
 
+![image](https://user-images.githubusercontent.com/105259381/184282466-f9e37212-6843-47ab-8054-580229dcddc0.png)
+
+#### MATERIALES
+
+2 resistencia de 3Ω
+
+1 resistencia de 6Ω
+
+1 resistencia de 5Ω
+
+1 fuente de alimentación de 20V
+
+1 fuente de alimentación de 10V
+
+![image](https://user-images.githubusercontent.com/105259381/184283840-c28fce10-ede5-43e7-bb1e-96df454fc251.png)
+
+#### Solución:
+
+![image](https://user-images.githubusercontent.com/105259381/184284848-cd828b74-e190-4080-93b1-038453e06863.png)
+
+#### Procedimiento:
+
+Se mide el voltaje de Thévenin
+
+Se obtiene que VTH=10V
+
+![image](https://user-images.githubusercontent.com/105259381/184285108-f92e454d-d09b-4489-be1d-6506dc58ff08.png)
+
+Se retira la resistencia de 5Ω y se mide la resistencia de Thévenin
+
+Se obtiene que RTH= 5Ω
+
+![image](https://user-images.githubusercontent.com/105259381/184285443-f11e12e5-7494-4eb8-a060-0535eef5eea8.png)
+
+Por último se mide la corriente que pasa por la resistencia de 5Ω en el circuito de Thévenin
+
+![image](https://user-images.githubusercontent.com/105259381/184286218-5da134ac-6668-412d-bae7-5da3366baddd.png)
+
+### PREGUNTA 3
+
+Empleando el circuito equivalente de Thévenin determine la potencia suministrada a la resistencia R3
+
+Mediante instrumentos encuentre el circuito equivalente de Thévenin
+
+Emplee el vatímetro para determinar la potencia
+
+![image](https://user-images.githubusercontent.com/105259381/184282352-37516f6c-d9e2-4f8d-aa1b-ccad129b431e.png)
+
+#### MATERIALES
+
+1 resistencia de 9.1 kΩ
+
+1 resistencia de 3.3 kΩ
+
+1 resistencia de 2.2 kΩ
+
+1 resistencia de 7.5 kΩ
+
+1 resistencia de 6.8 kΩ
+
+1 fuente de alimentación de 18V
+
+1 fuente de alimentación de 3V
+
+![image](https://user-images.githubusercontent.com/105259381/184287031-7149164a-f7fe-49ea-a19f-5c5d29decf44.png)
+
+#### Solución:
+
+![image](https://user-images.githubusercontent.com/105259381/184286531-3481ae61-c8fd-4d24-8ef6-38f755f77822.png)
+
+#### Procedimiento:
+
+Se retira la resistencia de 2.2 kΩ y se mide el voltaje de Thévenin.
+
+Se obtiene que VTH=8.32v
+
+![image](https://user-images.githubusercontent.com/105259381/184286531-3481ae61-c8fd-4d24-8ef6-38f755f77822.png)
+
+Se mide la resistencia de Thévenin
+
+![image](https://user-images.githubusercontent.com/105259381/184287400-afbdc67d-ce19-4034-b385-eff61c75d1a0.png)
+
+Se mide el voltaje y la corriente en el circuito de Thévenin
 
 
 
