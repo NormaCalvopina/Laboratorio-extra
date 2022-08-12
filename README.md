@@ -126,7 +126,7 @@ Calcular la intensidad I que pasará por la resistencia 5Ω utilizando Thévenin
 
 #### Solución:
 
-![image](https://user-images.githubusercontent.com/105259381/184284848-cd828b74-e190-4080-93b1-038453e06863.png)
+![image](https://user-images.githubusercontent.com/105259381/184450880-be153168-5f4d-42ea-b7e1-f1a5e52ab7ca.png)
 
 #### Procedimiento:
 
