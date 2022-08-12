@@ -134,17 +134,17 @@ Se mide el voltaje de Thévenin
 
 Se obtiene que VTH=10V
 
-![image](https://user-images.githubusercontent.com/105259381/184285108-f92e454d-d09b-4489-be1d-6506dc58ff08.png)
+![image](https://user-images.githubusercontent.com/105259381/184450985-63621285-659a-4172-a1b6-8c4d4ca2de1c.png)
 
 Se retira la resistencia de 5Ω y se mide la resistencia de Thévenin
 
 Se obtiene que RTH= 5Ω
 
-![image](https://user-images.githubusercontent.com/105259381/184285443-f11e12e5-7494-4eb8-a060-0535eef5eea8.png)
+![image](https://user-images.githubusercontent.com/105259381/184451027-e0896366-ca0b-4b28-b8fd-6a52f8650643.png)
 
 Por último se mide la corriente que pasa por la resistencia de 5Ω en el circuito de Thévenin
 
-![image](https://user-images.githubusercontent.com/105259381/184286218-5da134ac-6668-412d-bae7-5da3366baddd.png)
+![image](https://user-images.githubusercontent.com/105259381/184451057-f9f84e6e-8b06-4e4a-9183-c47bf15cc1c6.png)
 
 ### PREGUNTA 3
 
