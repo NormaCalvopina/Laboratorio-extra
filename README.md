@@ -130,7 +130,7 @@ Calcular la intensidad I que pasará por la resistencia 5Ω utilizando Thévenin
 
 #### Procedimiento:
 
-Se mide el voltaje de Thévenin
+Se mide el voltaje de Thevenin
 
 Se obtiene que VTH=10V
 
@@ -176,7 +176,7 @@ Emplee el vatímetro para determinar la potencia
 
 #### Solución:
 
-![image](https://user-images.githubusercontent.com/105259381/184286531-3481ae61-c8fd-4d24-8ef6-38f755f77822.png)
+![image](https://user-images.githubusercontent.com/105259381/184454964-ec166ff1-9091-46e0-98c6-be96046fbf5d.png)
 
 #### Procedimiento:
 
@@ -184,18 +184,37 @@ Se retira la resistencia de 2.2 kΩ y se mide el voltaje de Thévenin.
 
 Se obtiene que VTH=8.32v
 
-![image](https://user-images.githubusercontent.com/105259381/184286531-3481ae61-c8fd-4d24-8ef6-38f755f77822.png)
+![image](https://user-images.githubusercontent.com/105259381/184455208-3f1f68e5-082d-404b-a56b-faa694bc8483.png)
 
 Se mide la resistencia de Thévenin
 
-![image](https://user-images.githubusercontent.com/105259381/184287400-afbdc67d-ce19-4034-b385-eff61c75d1a0.png)
+![image](https://user-images.githubusercontent.com/105259381/184455636-5e72f6f0-3ca0-4ee2-b124-65195f72de3f.png)
 
 Se mide el voltaje y la corriente en el circuito de Thévenin
 
+![image](https://user-images.githubusercontent.com/105259381/184456459-99f50482-cc54-4dd5-8122-2083fb840ce8.png)
+
+#### Cálculos:
+
+![image](https://user-images.githubusercontent.com/105259381/184456619-64b923cc-1e68-4b17-81f7-e10e464da396.png)
+
+Comprobamos la potencia con un vatímetro:
+
+![image](https://user-images.githubusercontent.com/105259381/184456915-82993eab-a976-4d61-82f9-2f6d4f453e1f.png)
+
+## 4. RESULTADOS
 
 
 
-## 5. BIBLIOGRAFÍA
+## 5. VIDEO
+
+
+
+## 6. CONCLUSIONES
+
+Se utilizó la teoría de cada tema para realizar cada pregunta y se analizó que en la pregunta 3 sobre emplear el circuito equivalente de Thévenin y determinar la potencia existió una variación en los valores encontrados en la potencia en el simulador TINKERCAD y en el simulador DCAClab esto se de a que en DCAClab el vatímetro varía y no se puede encontrar un valor fijo.
+
+## 7. BIBLIOGRAFÍA
 
 https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
 
@@ -203,7 +222,7 @@ https://personales.unican.es/peredaj/pdf_apuntes_ac/presentacion-teoremas.pdf
 
 https://es.lambdageeks.com/maximum-power-transfer-theorem/
 
-
+Floyd, T. (2007). Principios de circuitos electricos. Octava edición. México: Pearson Educación.
 
 
 
