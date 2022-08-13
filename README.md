@@ -222,7 +222,5 @@ https://personales.unican.es/peredaj/pdf_apuntes_ac/presentacion-teoremas.pdf
 
 https://es.lambdageeks.com/maximum-power-transfer-theorem/
 
-Floyd, T. (2007). Principios de circuitos electricos. Octava edición. México: Pearson Educación.
-
-
+Floyd, T. (2007). Principios de circuitos electricos. México: Pearson Educación. Serway 
 
