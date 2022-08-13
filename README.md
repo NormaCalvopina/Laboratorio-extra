@@ -216,11 +216,12 @@ Se utilizó la teoría de cada tema para realizar cada pregunta y se analizó qu
 
 ## 7. BIBLIOGRAFÍA
 
-https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
+McAllister, W. (22 de mayo de 2016). khanacademy. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
 
-https://personales.unican.es/peredaj/pdf_apuntes_ac/presentacion-teoremas.pdf
+Análisis de Circuitos (G-286). Grado en Ingeniería de Tecnologías de Telecomunicación
+José A. Pereda, Dpto. Ing. de Comunicaciones, Universidad de Cantabria.
 
-https://es.lambdageeks.com/maximum-power-transfer-theorem/
+Roy, S. (6 de mayo de 2021). lambdageeks.com. Obtenido de https://es.lambdageeks.com/maximum-power-transfer-theorem/
 
 Floyd, T. (2007). Principios de circuitos electricos. México: Pearson Educación. Serway 
 
