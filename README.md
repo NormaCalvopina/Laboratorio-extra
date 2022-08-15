@@ -204,7 +204,7 @@ Comprobamos la potencia con un vatímetro:
 
 ## 4. RESULTADOS
 
-
+Se utilizó la teoría de cada tema para realizar cada pregunta y se analizó que en la pregunta 3 sobre emplear el circuito equivalente de Thévenin y determinar la potencia existió una variación en los valores encontrados en la potencia en el simulador TINKERCAD y en el simulador DCAClab esto se de a que en DCAClab el vatímetro varía y no se puede encontrar un valor fijo.
 
 ## 5. VIDEO
 
@@ -212,7 +212,7 @@ Comprobamos la potencia con un vatímetro:
 
 ## 6. CONCLUSIONES
 
-Se utilizó la teoría de cada tema para realizar cada pregunta y se analizó que en la pregunta 3 sobre emplear el circuito equivalente de Thévenin y determinar la potencia existió una variación en los valores encontrados en la potencia en el simulador TINKERCAD y en el simulador DCAClab esto se de a que en DCAClab el vatímetro varía y no se puede encontrar un valor fijo.
+Mediante el análisis de los conceptos de cada tema se pudo resolver las preguntas planteadas en el Laboratorio y se observa que los simuladores hacen que sea más fácil conocer los valores de potencia y corriente según requiera en el ejercicio.
 
 ## 7. BIBLIOGRAFÍA
 
